@@ -1,0 +1,20 @@
+Name: Alert ID: TMML2024033606461
+The United States Department of Justice has charged two Chinese nationals with laundering more than $100 million in cryptocurrency by hacking a cryptocurrency exchange. Tian Yinyin and Li Jiadong were charged with conspiracy to launder monetary instruments, operating an unlicensed money transmitting business. As a result, defendants must forfeit any property and funds involved in the scheme.
+
+In 2018, North Korean actors stole approximately $250 million by hacking an online cryptocurrency exchange. The cryptocurrency was “laundered through hundreds of automated cryptocurrency transactions aimed at preventing law enforcement from tracing the funds.” Additionally, the hackers “circumvented multiple virtual currency exchanges’ know-your-customer controls by submitting doctored photographs and falsified identification documentation.” Some of the funds were used for North Korea’s financial industry hacking efforts.
+
+“Today, we are publicly exposing a criminal network’s valuable support to North Korea’s cyber heist program and seizing the fruits of its crimes,” Assistant Attorney General John C. Demers from the Justice Department’s National Security Division said. “This case exemplifies the commitment of the United States government to work with foreign partners and the worldwide financial services industry to disrupt this blended threat.”
+
+Yinyin and Jiadong laundered more than $100 million in cryptocurrency, mostly from exchange hacks, between December 2017 and April 2019. They used independent and linked accounts and they “provided virtual currency transmission services for a fee for customers.” They did business in the United States but were not registered with the Financial Crimes Enforcement Network (FinCEN).
+
+“North Korea continues to attack the growing worldwide ecosystem of virtual currency as a means to bypass the sanctions imposed on it by the United States and the United Nations Security Council. IRS-CI is committed to combatting the means and methods used by foreign and domestic adversaries to finance operations and activities that pose a threat to U.S. national security,” Internal Revenue Service-Criminal Investigation (IRS-CI) Chief Don Fort said. “We will continue to push our agency to the forefront of complex cyber investigations and work collaboratively with our law enforcement partners to ensure these nefarious criminals are stopped and that the integrity of the United States financial system is preserved.”
+
+“The FBI will continue to actively work with our domestic and international law enforcement partners to identify and mitigate illicit movement of currency,” Assistant Director Calvin Shivers of the FBI’s Criminal Investigative Division said. “Today’s indictment and sanctions send a strong message that the United States will not relent in holding accountable bad actors attempting to evade sanctions and undermine our financial system.”
+
+There were 113 named virtual currency accounts and addresses used by Yinyin, Jiadong, and the North Korean hackers. The DOJ seeks to recover the remainder of the funds.
+
+The United States Department of the Treasury’s Office of Foreign Assets Control (OFAC) has imposed sanctions on the two Chinese nationals and a variety of cryptocurrency addresses involved in the scheme.
+
+“This indictment shows what can be accomplished when international law enforcement agencies work together to uncover complex cross-border crimes,” Acting Executive Associate Director Alysa Erichs of the U.S. Immigration and Customs Enforcement’s Homeland Security Investigations (HSI) said. “HSI is committed to upholding the rule of law and investigating those that would steal cryptocurrency for their illicit purposes.”
+
+“This case shows how important robust partnerships across the U.S. Government are in disrupting criminal actors,” Acting Assistant Director Robert Wells of the FBI’s Counterintelligence Division said.

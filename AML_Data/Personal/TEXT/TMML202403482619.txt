@@ -1,0 +1,56 @@
+Name: Alert ID: TMML202403482619
+Rohan Marley is not charged with wrongdoing. (Photo: AP)
+
+Among recent enforcement actions, the Securities and Exchange Commission shut down a $78 million pump-and-dump scheme involving a coffee company with ties to the late reggae great Bob Marley.
+
+In addition, the Financial Industry Regulatory Authority fined Deutsche Bank Securities $1.4 million on short interest reporting failures and fined Signator Investors $450,000 for supervisory failures regarding consolidated reports.
+
+SEC Investigating Pump-and-Dump of Marley Coffee Stock
+
+The SEC charged several individuals in a pump-and-dump scheme involving the stock of the stock of Jammin’ Java, a company that operates as Marley Coffee and uses trademarks of late reggae artist Bob Marley to sell coffee products.
+
+According to the agency, Jammin’ Java’s former CEO Shane Whittle put together the scheme with the aid of three individuals living abroad and the offshore entities they control. Whittle utilized a reverse merger to secretly gain control of millions of Jammin’ Java shares, and he spread the stock to the offshore entities controlled by Wayne Weaver of the U.K. and Canada, Michael Sun of India and René Berlinger of Switzerland.
+
+Charged with fraudulently promoting Jammin’ Java stock to investors are British twin brothers Alexander and Thomas Hunter, who were previously charged in a separate SEC case for touting multiple penny stocks using a fake stock picking robot. Others charged in the SEC’s complaint with pushing the illegal offering through their offshore entities are U.K. citizens Stephen Wheatley and Kevin Miller and Oman resident Mohammed Al-Barwani.
+
+Stock promoter Whittle befriended Rohan Marley — a son of Bob Marley — in Los Angeles. When he learned that Marley had bought a small Jamaican coffee farm, Whittle proposed the creation of a large-scale coffee distribution business built on the Marley name.
+
+To raise capital for the venture, Whittle identified publicly traded shell company Global Electronic Recovery Corp. (GERC), which was a purported waste management business in Los Angeles. He executed a reverse merger between GERC and Marley Coffee, which later became Jammin’ Java and trades under the ticker symbol JAMN. In connection with the reverse merger, Whittle secretly gained control of millions of shares that previously had been issued to foreign nominees.
+
+Using his access and control of Jammin’ Java and its stock, Whittle and others put together an illegal offering and the fraudulent promotion of Jammin’ Java’s stock in a pump-and-dump scheme that culminated in the middle of 2011. In anticipation of the promotion, Whittle distributed some of the nominee stock to offshore entities controlled by Weaver, Sun and Berlinger.
+
+To boost the stock price and provide cash to Jammin’ Java, Whittle, Weaver, Sun and Berlinger created a fake financing arrangement to make it look as if there were legitimate third-party interest and investment in the company. Jammin’ Java’s announcement of the financing agreement and other company announcements, along with coordinated trading by entities connected to the scheme, boosted the stock price.
+
+Whittle hid his control of the stock and other aspects of the scheme, lying in beneficial ownership reports that he filed with the SEC. He also distributed another large block of stock to offshore entities, including those controlled or owned by Weaver, Sun, Berlinger, Wheatley, Miller and Al-Barwani. Whittle, Weaver, Sun, and Berlinger hid their beneficial ownership of Jammin’ Java stock.
+
+The Hunters published false stock newsletters and took other actions to raise the stock’s price; then, when the price was up, the defendants and others coordinating with them dumped 45 million shares on the public market without registering the transactions, making at least $78 million in illicit profits. Weaver, Sun and Berlinger funneled $2.5 million in profits to Jammin’ Java under the guise of the phony financing arrangement that launched the promotion.
+
+Jammin’ Java’s share price and volume began to collapse a few days after the company disclosed on May 9, 2011, that it became aware of an unauthorized and unaffiliated online stock promotion. Disappointing financial results in its annual report took the price down even more.
+
+Marley was not accused of wrongdoing.
+
+Jammin’ Java, Whittle, Weaver, Sun, Berlinger, Wheatley, Miller, Al-Barwani and the Hunter brothers face various charges. The SEC is seeking injunctions, disgorgement, prejudgment interest and penalties as well as penny stock bars against all of the individuals and an officer-and-director bar against Whittle.
+
+Deutsche Bank Securities Hit by FINRA for $1.4 Million
+
+FINRA has fined Deutsche Bank Securities Inc. $1.4 million for violations of the short interest reporting rule and related supervisory failures.
+
+According to the agency, for more than 10 years, Deutsche Bank has been improperly including securities positions of a non-U.S.-broker-dealer affiliate in numerous aggregation units when determining each unit’s net position.
+
+Firms are generally allowed to track their positions in a security from certain trading operations or trading desks separately from other positions maintained at the firm through the use of an “aggregation unit.” But in determining the net positions of aggregation units, firms cannot include the securities positions of a non-U.S.-broker-dealer affiliate. In addition, FINRA requires firms, with some exceptions, to regularly report their total “short” positions in all customer and proprietary firm accounts in equity securities. These short positions must be reported on a gross, rather than a net basis.
+
+But from April 2004 to September 2012, Deutsche Bank reported the netted positions in its financial aggregation account as the firm’s short interest positions for that particular day.
+
+FINRA also found that, during the period when the violations occurred, Deutsche Bank’s supervisory system, with respect to its aggregation unit structure and short interest reporting, was not designed to detect and prevent them.
+
+The firm neither admitted nor denied the charges, but consented to the sanctions.
+
+FINRA Censures, Fines Signator Investors $450,000
+
+FINRA censured Signator Investors Inc. and fined it $450,000 for supervisory failures regarding registered representatives’ use of consolidated reports. In addition, Gregory Joseph Mitchell was assessed a deferred fine of $10,000 and suspended from association with any FINRA member in any supervisory capacity for seven months.
+
+According to the agency, Mitchell failed to enforce the firm’s policies and procedures related to client file reviews and branch audits by providing advance notice of which client files would be reviewed, as well as advance notice of unannounced branch audits to registered representatives. In addition, despite being reprimanded by the firm’s director of compliance for surveillance, Mitchell continued to notify registered representatives in advance which files would be reviewed, and the firm did nothing to stop him.
+
+The firm made a consolidated reporting system available to its registered representatives that allowed the representatives to enter customized values for assets and accounts held away from the firm into a consolidated report. However, the firm not only lacked an adequate supervisory system to review those reports, including the accuracy of manually entered valuations provided to the customers, but its procedures never mentioned either supervising consolidated reports or how to use the system — in fact, there was no review process for consolidated reports; as a result, the firm’s supervisors didn’t even know who was responsible for reviewing the reports.
+
+FINRA found other procedural failures, including failure to adequately review incoming and outgoing correspondence, failure to maintain consolidated reports that were sent to its customers and failures in its written supervisory procedures regarding its client file review and branch audit programs.

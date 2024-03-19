@@ -1,0 +1,32 @@
+Name: Alert ID: TMML202403973017
+A senior figure in the Bitcoin Foundation, which lobbies on behalf of the digital currency has been arrested for conspiracy to commit money laundering and “knowingly contributing” to anonymous drug sales.
+
+Prosecutors announced on Monday that Charlie Shrem, the organisation's vice chairman, was arrested at John F Kennedy airport in New York on New York Sunday.
+
+The news comes as a major blow for the digital currency lobby group and its supporters including Tyler and Cameron Winklevoss. The twins, famous for the early involvement with Facebook, have become big backers of the digital currency. They said in a statement on Monday that they were “deeply concerned” by the news.
+
+A second man, Robert Faiella, has also been arrested and charged for the same crimes relating to his operation of a small bitcoin exchange under the name BTCKing.
+
+The charges, unsealed by the US attorney for the southern district of New York, Preet Bharara, accuse the pair of "engaging in a scheme to sell over $1m in bitcoins to users of Silk Road", the online black marketplace which was closed by the FBI in October 2013.
+
+Shrem has been one of the highest profile executives on the Bitcoin Foundation. His arrest comes as staff at the foundation have been working hard to distance the digital currency from its links to crime, testifying to the US Senate last year and been lobbying regulators in Washington. Patrick Murck, Bitcoin’s general counsel, said: “I don’t think it’s damaging for the Foundation. [The] foundation wasn’t involved in any of the allegations.”
+
+James Hunt, an agent at the US drug enforcement administration agent, said in a statement: "The charges announced today depict law enforcement's commitment to identifying those who promote the sale of illegal drugs throughout the world. Hiding behind their computers, both defendants are charged with knowingly contributing to and facilitating anonymous drug sales, earning substantial profits along the way."
+
+The charges stem from Shrem's ownership of the BitInstant bitcoin exchange, of which he is the chief executive, co-founder and compliance officer. The exchange hit the headlines in May 2013 when the Winklevoss twins led a seed round which raised $1.5m of investment. The timing of the charges is unfortunate for the Winklevoss brothers who are set to speak this week at a two-day conference on digital currencies held by New York state's department of financial services.
+
+In a statement the twins said: “When we invested in BitInstant in the fall of 2012, its management made a commitment to us that they would abide by all applicable laws – including money laundering laws – and we expected nothing less. Although BitInstant is not named in today’s indictment of Charlie Shrem, we are obviously deeply concerned about his arrest. We were passive investors in BitInstant and will do everything we can to help law enforcement officials. We fully support any and all governmental efforts to ensure that money laundering requirements are enforced, and look forward to clearer regulation being implemented on the purchase and sale of bitcoins.”
+
+Shrem is additionally charged with "wilfully failing to file any suspicious activity report regarding Faiella's illegal transactions through the company," the documents reveal.
+
+“As alleged, Robert Faiella and Charlie Shrem schemed to sell over $1m in Bitcoins to criminals bent on trafficking narcotics on￼￼￼￼￼ the dark web drug site, Silk Road," said Bharara. "Truly innovative business models don’t need to resort to old-fashioned law-breaking, and when bitcoins, like any traditional currency, are laundered and used to fuel criminal activity, law enforcement has no choice but to act. We will aggressively pursue those who would co-opt new forms of currency for illicit purposes.”
+
+The substance of the allegation is that Faiella offered bitcoins for sale on the Silk Road website, a move which would entail knowing of their involvement in the drugs trade. Those bitcoins were purchased from the Bitinstant exchange.
+
+Shrem, as the compliance officer of the exchange, was in charge of ensuring its compliance of anti-money laundering rules.
+
+The charges, delivered by an IRS agent who was assigned to the New York organised crime drug enforcement strike force, allege that "not only did Shrem knowingly allow Faiella to use the company's services to buy bitcoins for his Silk Road customers, he personally processed Faiella's transactions, gave Faiella discounts on his high-volume orders, wilfully failed to file suspicious activity reports about Faiella and deliberately helped Faiella circumvent the company's [anti-money-laundering] restrictions, even though it was Shrem's job to enforce them."
+
+In December 2013, Shrem was profiled by news website Vocativ in a piece titled " My Night Out With Bitcoin Millionaire and Proud Stoner Charlie Shrem". In it, Shrem tells reporter Eric Markowitz that "I won’t hire you unless I drink with you or smoke weed with you", and says that he was forced to temporarily close BitInstant several times due to increased regulatory scrutiny. "If we want to exist 20 years from now, we want to make sure all of our ducks are in a row,” he tells Markowitz, “and right now, they’re not."
+
+The Winklevoss brothers' investment in BitInstant is just a small part of their total investment in bitcoin and related companies. Following the news of Shrem and Faiella's arrest, the price of bitcoin on the Mtgox exchange dropped by 3%.

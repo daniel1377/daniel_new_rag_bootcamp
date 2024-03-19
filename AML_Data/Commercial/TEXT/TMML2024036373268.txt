@@ -1,0 +1,32 @@
+Name: Alert ID: TMML2024036373268
+The U.S. Secret Service have arrested five individuals and seized multiple bank accounts related to a $6 billion money laundering scheme being described by authorities as “staggering” and the largest ever case of international money-laundering.
+
+In a statement, Secret Service officials said authorities in Spain, Costa Rica and New York arrested five people on Friday and seized bank accounts and Internet domains associated with the company Liberty Reserve – a Costa Rica-based website that deals in digital currency and allows transnational online payments and money transfers.
+
+Digital currency is a form of online currency made up of transferable units that can be exchanged with cash, and has exploded in popularity in the last decade with the increasing use of Bitcoin, the most widely used form of digital currency. Liberty Reserve’s currency was not connected with Bitcoin.
+
+Charging a low one percent fee on transactions, Liberty Reserve allowed users to open accounts using fictitious names, including "Russian Hacker" and "Hacker Account," and to redeem the currency for cash in any part of the world using the third-party exchange companies.
+
+Aditya Sood, a computer science doctoral candidate at Michigan State University who has studied the underground economy, described Liberty Reserve as a no-questions-asked alternative to the global banking system, with little more than a valid email needed to open an account and start moving money across borders.
+
+"You don't need to provide your full details, or personal information, or things like that," Sood said in a telephone interview with the Associated Press. "There's no way to trace an account. That's the beauty of the system."
+
+Arthur Budovsky, the founder of Liberty Reserve, was one of the individuals arrested, while a defendant identified as Budovsky’s partner, Vladimir Kats, was in custody in New York.
+
+According to the statement from the Secret Service, Liberty Reserve had approximately one million users worldwide with more than 200,000 users in the United States. Overall, the company processed an estimated 55 million separate financial transactions and is believed to have laundered more than $6 billion in criminal proceeds.
+
+"The scope of the defendants' unlawful conduct is staggering," said an indictment unsealed in federal court in Manhattan.
+
+The indictment described the network as "one of the principal means by which cyber criminals around the world distribute, store and launder proceeds of their illegal activity ... including credit card fraud, identity theft, investment fraud, computer hacking, child pornography and narcotics trafficking."
+
+“The U.S. Secret Service, in coordination with U.S. Immigration and Customs Enforcement’s Homeland Security Investigations (HSI) and the Global Illicit Financial Team (GIFT) hosted by IRS-Criminal Investigations (IRS-CI) executed and arrested search warrants in seven countries that also include Spain and the Netherlands. Assets of Liberty Reserve will also be frozen in Hong Kong, Spain, Morocco and China,” the Secret Service statement said.
+
+According to the press release, current and former executives of Liberty Reserve have also been charged with violating numerous anti money laundering statutes and operating as illegal money transmitters.
+
+Budovsky and Katz have previous convictions on charges related to an unlicensed money-transmitting business, according to court papers. After that case, the pair decided to move their operation to Costa Rica, where Budovsky officially renounced his U.S. citizenship, the papers say.
+
+In an online chat captured by law enforcement, Katz admitted Liberty Reserve was "illegal" and noted that authorities in the United States knew it was "a money laundering operation that hackers use."
+
+Mitchell Rossetti, whose Houston, Texas-based ePayCards.com was one of several mainstream merchants that accepted the online-only currency, said his business still had about $28,000 tied up in Liberty Reserve accounts.
+
+"The irony of this is I went to them because of the security," Rossetti said. "All sales were final."

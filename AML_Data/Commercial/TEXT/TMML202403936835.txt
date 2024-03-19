@@ -1,0 +1,50 @@
+Name: Alert ID: TMML202403936835
+An unknown attacker breached the servers of Panama firm Mossack Fonseca and has leaked sensitive files, revealing a worldwide corruption ring and a complex tax evasion system used by the world's richest persons.
+
+The incident took place at the start of 2015, when the hacker breached Mossack Fonseca, a corporate consultancy and law firm located in Panama.
+
+The person(s) behind the leak took the data, consisting of 2.6TB, over 11.5 million files, and offered it for analysis to German newspaper Süddeutsche Zeitung.
+
+It took over 400 journalists to analyze the leaked documents
+
+The German newspaper was so overwhelmed by the data it had to analyze that it called for the help of US-based International Consortium of Investigative Journalists (ICIJ), who coordinated the investigation by distributing the documents for analysis to over 400 journalists in 107 news organizations.
+
+Leaked data contained scanned and electronic documents from the 1970s, when Mossack Fonseca started, and up to early 2015.
+
+During their investigation, journalists had to use special software to index and analyze the data. OCR (Optical Character Recognition) software was used to transform scan documents to electronic versions so they could be indexed and categorized for easier searching and analysis.
+
+After a monumental work, yesterday, on April 3, 2016, ICIJ, together with Süddeutsche Zeitung, revealed their first analysis of the leaked documents, which only included data from 149 files of the total of 11.5 million.
+
+From the currently leaked documents, it appears that some of the world's richest persons, some of whom were politicians and even head of states, used Mossack Fonseca to set up shell corporations in various tax havens around the globe and avoid paying taxes back home.
+
+The data breach has its own name: Panama Papers
+
+The leak, which is now known as the Panama Papers, has its own website where ICIJ says its journalists will start publishing new documents from now on, just as Edward Snowden uses The Intercept website and Julian Assange uses WikiLeaks.
+
+Last Friday, probably after being contacted by members of the press for a request for comment, Mossack Fonseca sent an email to its clients acknowledging the breach of an email server.
+
+Edward Snowden described Panama Papers on Twitter as the "biggest leak in the history of data journalism."
+
+A who's who of world politics
+
+Incriminated politicians and world figures include President of Argentina Mauricio Macri, former Prime Minister of Georgia Bidzina Ivanishvili, Iceland's Prime Minister Sigmundur Davíð Gunnlaugsson, UAE President & Abu Dhabi emir Khalifa bin Zayed bin Sultan Al Nahyan, King of Saudi Arabia Salman bin Abdulaziz bin Abdulrahman Al Saud, Ex-Prime Minister of Iraq Ayad Allawi, President of Ukraine Petro Poroshenko, convicted former Ukraine Prime Minister Pavlo Lazarenko, former President of Sudan Ahmad Ali al-Mirghani, and several others.
+
+Additionally, there is the daughter of former Chinese Premier Li Xiaolin, Azerbaijan's first family, several FIFA officials, soccer star Lionel Messi, several musicians, childhood friends of Russian President Putin, cousins of Syrian President Bashar Assad, father of current British prime minister, and many other more. Honestly, the list could go on for at least a few more paragraphs.
+
+Besides these high-profile names, the leaked documents also contain documents such as email chains, invoices, and money transfers for offshore companies that facilitated bribery, arms deals, tax evasion, financial fraud, drug trafficking, human trafficking, and all sorts of other crimes.
+
+Panama Papers is the biggest data leak ever
+
+The Panama Papers incident is technically the world's biggest data leak, dwarfing WikiLeaks, which was only 0.06% of its size.
+
+ICIJ investigators say the data leak included 4.8 million emails, 3 million database files, 2,15 million PDF files, 1.1 million photos, and 0.32 million text files.
+
+Both Süddeutsche Zeitung and ICIJ are running separate sites for the Panama Papers leak, which you should definitely follow from now on.
+
+Biggest leak in the history of data journalism just went live, and it's about corruption. https://t.co/dYNjD6eIeZ pic.twitter.com/638aIu8oSU — Edward Snowden (@Snowden) April 3, 2016
+
+That time when your journalism was so hot it melted the servers. #PanamaPapers https://t.co/AkCPAh6EEI — Edward Snowden (@Snowden) April 3, 2016
+
+The exact moment Iceland's PM realizes journalists found his secret: https://t.co/XUaUMVmIm9 #Cashljós #PanamaPapers pic.twitter.com/rp29gGGTp1 — Edward Snowden (@Snowden) April 3, 2016
+
+"Oops" #PanamaPapers pic.twitter.com/ISwm6II4Hc — WikiLeaks (@wikileaks) April 3, 2016

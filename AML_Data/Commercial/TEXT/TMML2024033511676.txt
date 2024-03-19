@@ -1,0 +1,48 @@
+Name: Alert ID: TMML2024033511676
+On April 16, 2020, the New York Department of Financial Services (“DFS”) issued a Statement of Charges and Notice of Hearing against Irish pharmaceutical company Mallinckrodt plc and several of its U.S. subsidiaries (collectively, “Mallinckrodt”). [1] The administrative hearing will take place on August 24, 2020, before a hearing officer appointed by the DFS Superintendent. According to DFS, Mallinckrodt committed insurance fraud in violation of New York law by allegedly misrepresenting the efficacy and safety of opioids to patients and healthcare professionals, causing an over-prescription of its drugs, the cost of which was ultimately passed on to New York insurance companies and their policyholders.
+
+This action follows Governor Cuomo’s announcement in September 2019 that DFS was “taking action” to seek fines and restitution from opioid manufacturers, distributors, and pharmacy benefit managers for the costs New Yorkers had shouldered for the “over-prescription of opioids, addiction treatment and treatment of other adverse health effects associated with opioid addiction.” [2]
+
+DFS’s invocation of an insurance-fraud theory of liability represents “a new front against opioid makers” in New York [3] and a novel and aggressive use of the relevant statutory provisions. This action also gives further insight into Superintendent Lacewell’s approach to enforcement, showing DFS’s heightened focus in the areas of consumer protection and healthcare. Below, we discuss DFS’s key factual allegations and legal theories.
+
+Factual Allegations
+
+Mallinckrodt manufactures a variety of name-brand (e.g., Exalgo) and generic (e.g., Percocet) opioids, a class of painkillers derived from opium. [4] Beginning in the mid-to-late 1990s, DFS alleges, Mallinckrodt conducted “a deliberately false and misleading marketing and promotional campaign” designed to convince healthcare professionals and patients that the benefits of using opioids to treat chronic pain outweighed the risks, and that opioids could be safely used by most patients. [5] To that end, Mallinckrodt allegedly:
+
+Developed and disseminated “seemingly truthful” scientific, educational, and marketing materials that misrepresented the safety and efficacy of long-term opioid use; [6]
+Paid sales representatives to deliver misleading messages about opioids to healthcare professionals; [7]
+Recruited and funded healthcare providers to draft misleading studies and present deceptive and misleading continuing medical education programs; [8]
+Helped develop and fund “seemingly independent, objective” advocacy groups that developed false and misleading educational materials and treatment guidelines that promoted long-term opioid use; [9] and
+Failed to identify, report, and halt suspicious orders of opioids and opioid diversion. [10]
+
+The result of these promotional efforts, DFS asserts, was a “dramatic increase[]” in “medically necessary” prescriptions of opioid medications, and Mallinckrodt’s drugs in particular. [11] Between 2009 and 2019, Mallinckrodt allegedly supplied New York policyholders of private commercial health insurance with over 1 billion opioid pills. [12]
+
+With this increase in opioid prescriptions, DFS alleges, came “debilitating” financial costs: “It is estimated that, just in the past 10 years, commercial health insurance companies in the State of New York (and ultimately the consumers who pay insurance premiums) have paid $1.8 billion in additional claims as a result of the opioid crisis.” [13]
+
+DFS’s Legal Theories
+
+Relying on its authority as “the sole insurance regulator in the State of New York” with the responsibility to investigate and “promote the reduction and elimination of fraud” with respect to insurance institutions and their customers, DFS charged that Mallinckrodt’s conduct contravened two New York statutes that prohibit insurance fraud and provide for civil penalties. [14]
+
+A. Section 403 of the New York Insurance Law
+
+Section 403 of the New York Insurance Law authorizes the DFS Superintendent to levy a civil penalty of up to $5,000 (plus the amount of the false claim) per commission against any person who has committed a “fraudulent insurance act” within the meaning of Section 176.05 of the Penal Law. [15] Section 176.05, in turn, defines a “fraudulent insurance act” as an act “committed by any person who, knowingly and with intent to defraud presents [or] causes to be presented . . . to or by an insurer . . . a claim for payment . . . that he or she knows to: (a) contain materially false information concerning any material fact thereto; or (b) conceal, for the purpose of misleading, information concerning any fact material thereto.” [16]
+
+DFS’s allegation that Mallinckrodt committed “fraudulent insurance acts” appears to rely on the following causal chain: (i) Mallinckrodt’s alleged misrepresentations regarding the efficacy and safety of opioids; (ii) caused healthcare providers to write opioid prescriptions and file insurance claims for those prescriptions; and (iii) those insurance claims “carried with them” false representations that the prescribed opioids were medically necessary. [17]
+
+In the alternative, DFS alleges that to the extent third parties (such as doctors who wrote fraudulent prescriptions) engaged in conduct that violated Section 176.05, Mallinckrodt is liable for such conduct because it “knowingly and with an intent to defraud, solicited, requested, commanded, importuned and/or intentionally aided such third parties in such conduct.” [18] Although DFS does not cite a statutory provision, this language appears to be drawn from the aiding and abetting offense in New York’s Penal Law. [19]
+
+According to DFS, either theory of liability warrants a civil penalty of up to $5,000 (plus the amount of each claim) for each allegedly fraudulent prescription. [20]
+
+DFS’s theory that Mallinckrodt instigated a third-party’s insurance fraud appears to constitute a novel use of Sections 403 and 176.05. The application of those provisions has been limited in the past to more direct causal theories. DFS has, for example, utilized Section 403 in guidance cautioning healthcare providers that the failure to collect co-payments without the insurer’s knowledge may constitute insurance fraud. [21] And the past prosecutions under Section 176.05 have primarily concerned the knowing submission by a provider or the insured of a false insurance claim. [22] Regarding DFS’s alternative theory, DFS provides no citation for its application of aiding-and-abetting principles to a Section 403 enforcement action.
+
+B. Section 408 of the New York Financial Services Law
+
+Section 408(a)(1)(A) of the New York Financial Services Law authorizes the DFS Superintendent to levy a civil penalty of up to $5,000 for the commission of any intentional fraud or intentional misrepresentation of a material fact “with respect to,” or involving any person offering to provide or providing, “financial products or services,” including commercial health insurance plans. [23]
+
+DFS appears to be relying on a substantially similar causal chain as it did with the first theory described above. DFS appears to be arguing that because Mallinckrodt made alleged misrepresentations to healthcare providers and patients, and the healthcare providers in turn prescribed the opioids and filed claims with insurance companies, then Mallinckrodt’s statements are “with respect” to the insurance companies’ provision of insurance. Thus, whether Section 408 encompasses Mallinckrodt’s alleged conduct may turn on how broadly the phrase “with respect to” is interpreted, an issue with which courts have apparently not grappled. [24] Notably, DFS’s prior enforcement actions under Section 408 have primarily concerned misrepresentations made in connection with selling or providing financial products or services. [25]
+
+Implications
+
+Although a handful of similar insurance fraud actions have been filed elsewhere, [26] DFS’s enforcement action represents a “new front” against opioid manufacturers in New York. DFS’s legal theories—including their reliance on multi-step causal chains and, in one instance, aiding-and-abetting principles—represent a novel and aggressive application of New York law. As a result, should this action continue to be contested (it appears to be the first major administrative action—rather than a consent order—filed during Superintendent Lacewell’s tenure [27]) it would confront significant obstacles upon judicial review.
+
+The action is also notable because Superintendent Lacewell has frequently highlighted consumer protection and healthcare as areas of focus, [28] and last year she undertook a reorganization to create a new “powerhouse” Consumer Protection and Financial Enforcement Division, led by Executive Deputy Superintendent Katherine Lemire. [29] The Mallinckrodt case may thus portend further aggressive enforcement in this space.

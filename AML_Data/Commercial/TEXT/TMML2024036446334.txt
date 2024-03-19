@@ -1,0 +1,82 @@
+Name: Alert ID: TMML2024036446334
+This article is written by Yash Singhal from Vivekananda Institute of Professional Studies, New Delhi. The article is about the infamous Coalgate scam during the UPA government tenure and its legal aspects in detail.
+
+Introduction
+
+India has been a witness to several national level scams by the public officials. The Coalgate scam was one such scam where the UPA Government was accused of allocating coal blocks without the process of competitive bidding. These coal blocks are usually allocated to enterprises after an auction with the highest bidder acquiring the possession of the block. The government earns revenue on the sale of these blocks which is used for their operations.
+
+The question that “Whether the coal block allocation by the government is within the legal framework?” will be answered in this article exhaustively.
+
+What is the Coalgate scam?
+
+The Coal Allocation scam or the Coalgate scam is a scandal that took place during the UPA government tenure. It came into reckoning in 2012 after the then Comptroller and Auditor General (CAG) raised allegations against the government for allocation of coal blocks to public and private enterprises. Out of the total 216 coal blocks allocated between 1993-2010, 194 coal blocks were sold to these public and private enterprises for captive use.
+
+The questions were raised in the CAG report over arbitrary administrative decisions while allocating the coal blocks and not following the particular procedure of the competitive bidding.
+
+CAG Report
+
+The democracy functions on the transparency of the representatives in the Parliament and its foundation trembles when the public is kept under the veil of non-transparency. Transparency is established when the general public is aware of every action of the government and have the means to oppose the actions in case they are aggrieved by those actions. The procedure prescribed for allocation of coal blocks to public and private enterprises was based on a fair practice of auction which had to be followed every time when the coal blocks were for sale. The CAG contended in its report that approximately the loss of Rs. 10.6 lakh crores was suffered by the exchequer while the final report tabled in Parliament displayed the figure at Rs. 1.86 lakh crore.
+
+The government had the opportunity to take the prescribed procedure and maintain the transparency but they refused the competitive bidding process to arbitrarily allocate the coal blocks. There were allegations on certain politicians for favouring particular private players over others. Also, the report included a statement regarding several private players getting more coal blocks than needed for their captive operations, with some companies selling coal in the open market to earn profits.
+
+Coal allocation guidelines
+
+There were some guidelines issued for the coal allocation by the Ministry of Coal in 2011, with the preference to the power and steel sectors. There was a list of 10 guidelines that had to be taken into consideration to be a competing applicant for a captive block:
+
+These guidelines were not duly followed by the Central Government while allocating the coal blocks to public and private enterprises.
+
+Legal aspects
+
+The Coalgate scam had certain legal aspects attached to it that must be discussed in detail to understand its gravity and what not to repeat in future. These aspects are provided as follows:
+
+Ultra vires authority from Government
+
+The central government in this coal allocation case was questioned for going beyond the powers conferred on them by the statutes governing coal and natural resources mining in India. The government took initiative to allocate the coal blocks without any auction. Neither of the Mines and Minerals (Development and Regulation) Act, 1957, Mineral Concession Rules, 1960 and the Coal Mines (Nationalisation) Act, 1973 provided the central government with the authority to allocate coal blocks which were contended by the counsel of the petitioner in the Supreme Court. The court accepted the contention while observing that none of the stated statutes provide any procedure for allocation of blocks.
+
+Invalidity but non-cancellation of allocations
+
+The case of Manohar Lal Sharma v. The Principle Secretary & Others was decided by the Supreme Court where the petitioner was successful in proving the government action of allocating coal blocks without auction as a mode of biasness. The accused were charged under the provisions of the Prevention of Corruption Act, 1988.
+
+The Supreme Court declared the allocations as contrary to fairness and objected against the government action to favour companies in the process. While the allocations were declared illegal yet the cancellation of the contracts of the companies could not be achieved in entirety due to some of them starting the work on the blocks. The cancellation would have led to the loss of the companies that initiated the operations.
+
+Administrative decision making
+
+Administrative decision making is a field of administrative law in India which does not associate itself with any exclusive statute but has developed through the evolution of other statutes and the judicial pronouncements. The screening committee was constituted to take decisions on the allocation of the coal blocks. The whole process was an administrative process which was required to be dispensed under statutory provisions while following the competitive bidding procedure as part of administrative arrangements. The coal allocation process started to be monitored from 2010 when the Amendment Bill of Mines and Minerals (Development and Regulation) Act, 1957 was enacted while providing a framework to allocate coal blocks through competitive bidding.
+
+It is a question of personal perspective as to whether the earlier Act could be applied in cases in the pre-2010 era to regulate the administrative decision making in the process of allocation or was it not adequate enough to handle such situations. In the latter case, the Act could have been amended earlier to include these provisions by the parliament to prevent questioning over corruptive government decisions. The statute based legal backing to the competitive bidding process would have made it obligatory for the administrative authority to implement them or face sanctions. The government lacking any enactment of rules in such favour subject them to an investigation probe where they have to answer why they did not have any precautionary measure in place.
+
+Transparency improvement through administrative backing
+
+The law governs those rules which are sanctioned by any statutory provisions but do not deal with any non-existent rules or regulations. It does not function on presumed rules until exclusively stated in the statute governing the orders. The coal allocation process was a non-transparent process with a lack of competitive bidding to provide a fair chance to every enterprise. The administrative backing through a statute would improve transparency with the committee’s obligation to dispense administrative decisions according to the authority stated in the statute. Any action in excess of the authority would impose legal sanctions on the authority which prevents them any diversion from assigned functions.
+
+Arbitrariness
+
+The process of coal blocks allocation for captive use has been an example of arbitrary action from the government. Arbitrariness is the practice of taking decisions without any reasonability and only on personal pleasure. The doctrine of arbitrariness stated under Article 14 of the Indian Constitution has been violated here. The absence of statutory law to favour competitive bidding is immaterial as Article 14 does not support arbitrary administrative action as it violates the rule of law.
+
+Every administrative action is subjected to a test of arbitrariness where the authority needs to prove its action within the reasonableness sanctioned by the Indian Constitution and shall not support any sort of biases in the decision making process. The politicians have favoured some private enterprises over others which have shown arbitrary action from them.
+
+In the case of Shrilekha Vidyarthi v. State of U.P., it was held that the state action can never be based on arbitrariness as the basic principle of Article 14 is fairness in action. Irrespective of the nature of the operation, the state action should be in pursuance of rule of law and it is the uppermost duty of the state to maintain it in every circumstance. In the present case, the fairness was not there in the state action through its administrative authorities when some particular enterprises were preferred without a suitable procedure of auction as a mode of rule of law through a fair procedure established by law.
+
+In the case of Neelima Misra v. Harinder Kaur Paintal and Ors., it was decided that all authorities shall take decisions according to the Acts and the statutes and act in compliance with the powers and duties conferred on them. Every action should be bereft of illegality, irrationality or arbitrariness. Any action found to be either of these by any authority, in the exercise of legislative, administrative or quasi-judicial functions are liable to be quashed for violating Article 14. In this Coalgate scam, the administrative authority, i.e., the committee acted arbitrarily, hence, liable for the violation of Article 14.
+
+In the case of Kasturi Lal Lakshmi Reddy v. State of Jammu and Kashmir & Anr., it was held that the government shall not exercise its power arbitrarily for its own favour. The purpose of every government action is a public good and that cannot be sacrificed in any manner whatsoever. Every action must be on reasonable grounds due to its direct effect on the public good. Every government action that is arbitrary would be deemed invalid. The present case did not leave any scope for the public good with the enterprises regarded as a group of individuals who deserved a fair chance. This fairness was not provided by the government-appointed administrative committee to get the coal block in an auction.
+
+CBI- A Caged Parrot
+
+The Supreme Court slammed the premier investigation agency of India as being ‘a caged parrot’ to its masters after the Apex Court examined the nine-page affidavit by the CBI as being alleged to be changed by the Law Minister and the Attorney General of India.
+
+The court observed that the agency was being a puppet to the UPA Government during their tenure working as per their whims and fancies. The CBI has to be an autonomous body with no political affiliation to either of the parties and should work in the interest of the State. The reports being doctored by the accused themselves is a gross violation of the fair trial principle as the authority that is assigned the task of preparing reports after the investigation is under the control of the accused themselves. The court made reservations in the area of no minister to interfere in a CBI probe with no part of the investigation to be touched or altered.
+
+Amendment to Coal Mines (Nationalisation) Act, 1973
+
+The significant purpose to open tenders for any project by the government is to call for public or private enterprises to invest in the business while providing maximum output to cater to the demands of the population in the country. Therefore, every Government action is directed towards the public good. The amendment to the Coal Mines (Nationalisation) Act, 1973 would invite the domestic as well as the international companies to participate in the coal block allocation process.
+
+The amended statute to make the auction compulsory for the allocation of coal blocks after 2010 would not leave any scope for bias or arbitrary action from the administrative authority. The competitive spirit in the domestic and the international companies to acquire the blocks would benefit the country as they would bid on the factors as to who can extract more from the particular mine. This extracted coal can be sold to compete with other monopoly-based companies in India.
+
+Conclusion
+
+The Coalgate scam has been a negative mark on the UPA tenure in India from 2004-2014 as it laid out all the wrongdoings by the ruling government. The scam is about a scandal in the allocation of coal blocks to the competing companies, that lacked the proper procedure of auctions through which the highest bidder could get the block.
+
+The arbitrariness of the government along with their actual authority was questioned by the Comptroller and Auditor General of India in its report. The adding of a statute to make the process of competitive bidding a norm in the allocation process was accepted in 2010 after the 1957 Act was amended. The legal implications of this scam were observed by the Supreme Court while deciding the matter in favour of the petitioner. It had and will continue to have a major impact on the government action framework in regards to fair treatment of all people.
+
+LawSikho has created a telegram group for exchanging legal knowledge, referrals and various opportunities. You can click on this link and join:

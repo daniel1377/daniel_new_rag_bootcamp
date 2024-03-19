@@ -1,0 +1,20 @@
+Name: Alert ID: TMML202403655646
+Cyber-attacks have been levied against journalists in Angola after they reported that the Angolan president’s chief of staff had embezzled public funds.
+
+Independent online news provider Correio Angolense published an article online covering the claims against Edeltrudes Costa that were first made by the Portuguese TV channel Televisão Independente (TVI).
+
+The broadcaster launched an investigation after companies owned by Costa were awarded several major contracts by the government, including a multi-million-dollar contract to renovate Angola’s airports. TVI alleged that Costa transferred public money paid to his businesses to offshore accounts in Panama and Portugal, then used it to acquire luxury properties.
+
+Shortly after Correio Angolense covered the allegations, the website of the news provider was hit by a denial-of-service (DDoS) attack. As a result, the website has been inaccessible since September 25.
+
+Its editor, Graça Campos, told Reporters Without Borders (RSF) that the site was crashed by thousands of simultaneous connection attempts in what appeared to be a deliberate cyber-attack.
+
+RSF’s former Angola correspondent, freelance journalist Siona Casimiro, was also the target of a cyber-attack after he worked on the Costa embezzlement story.
+
+Casimiro told RSF: “There can be no doubt about the desire to silence journalists with regard to the Edeltrudes Costa affair.”
+
+Combatting corruption has been one of President João Lourenço’s key pledges since his election in 2017. When news of Costa’s alleged crime broke, around 200 people took to the streets of the nation’s capital Luanda to protest and call for the chief of staff’s resignation.
+
+Lourenço’s campaign against corruption led to the imprisonment in August of José Filomeno dos Santos, son of Angola’s former president José Eduardo dos Santos, who served as the country’s head of state from 1979 to 2017. José Filomeno was sentenced to five years in prison after diverting oil revenues from Angola’s sovereign wealth fund, which he oversaw from 2013 to 2018.
+
+An investigation is ongoing into the activities of his half-sister Isabel dos Santos, who, according to Africa News, is suspected of “a long list of crimes including mismanagement, embezzlement and money laundering during her stewardship of state oil giant Sonangol.”

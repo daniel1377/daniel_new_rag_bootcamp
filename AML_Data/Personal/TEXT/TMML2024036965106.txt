@@ -1,0 +1,22 @@
+Name: Alert ID: TMML2024036965106
+Law enforcement agencies in Boston have charged a Ukrainian national with hacking, credit card trafficking and money laundering conspiracies in a $94 million case.
+
+According to the US Attorney’s Office in the District of Massachusetts, Vitalii Antonenko, 28, (and residing in New York), was indicted on one count of conspiracy to gain unauthorised access to computer networks and to traffic in unauthorised access devices, and one count of money laundering conspiracy.
+
+In March 2019, Antonenko was arrested and detained on money laundering charges at New York’s John F. Kennedy International Airport after he arrived there from Ukraine carrying computers and other digital media that held hundreds of thousands of stolen payment card numbers.
+
+Last year, Antonenko’s lawyers requested a psychiatric evaluation as they said he had difficulty communicating and suggested he is covertly working for the CIA. (Reminds me of the 2002 movie Confessions of a Dangerous Mind.)
+
+In this latest development, he’s only been charged, but depending on the outcome Antonenko could face 20 years in jail and be fined up to $500,000 over the money laundering conspiracy.
+
+As alleged in the indictment, Antonenko and (unnamed) co-conspirators scoured the internet for computer networks with security vulnerabilities that were likely to contain credit and debit card account numbers, expiration dates, and card verification values (payment card data) and other personally identifiable information (PII).
+
+They used a hacking technique known as a “SQL injection attack” to access those networks without authorisation, extracted payment card data and other PII, and transferred it for sale on online criminal marketplaces. Once a co-conspirator sold the data, Antonenko and others used Bitcoin as well as traditional bank and cash transactions to launder the proceeds to disguise their nature, location, source, ownership and control.
+
+US Attorney Andrew E. Lelling and Frederick J. Regan, Special Agent in Charge of the US Secret Service Boston Field Office made the announcement. Assistant US Attorney Seth B. Kosto of Lelling’s Cybercrime Unit is prosecuting the case.
+
+The US Attorney’s Office reminds everyone the details contained in the charging document are allegations. The defendant is presumed innocent unless and until proven guilty beyond a reasonable doubt in a court of law.
+
+Bitcoin and cryptocurrencies often get a bad rap. Why? Usually because of the criminal activities linked to it. There are too many stories to mention, but just this month the Commodity Futures Trading Commission (CFTC) filed enforcement action in the US against a dastardly Dane for his $1.5 million foreign currency (forex) fraud scheme and registration violations.
+
+Client funds were withdrawn from the US bank accounts by Casper Mikkelsen through his debit card, as well as transferred from the US bank accounts to an overseas bank, and from there to a Bitcoin address for Mikkelsen’s benefit. Mikkelsen then used the money to pay certain clients purported forex trading profits as is typical in a Ponzi scheme.

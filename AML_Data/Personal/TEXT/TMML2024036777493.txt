@@ -1,0 +1,70 @@
+Name: Alert ID: TMML2024036777493
+Shady Turkish-Iranian businessman Reza Zarrab’s money laundering scheme was revealed in leaked U.S. files.
+
+According to the files, the United Arab Emirates’ central bank, UK-based Standard Chartered and Deutsche Bank took part in Zarrab’s scheme.
+
+The FinCEN files are a huge cache of secret reports detailing suspicious financial activity, filed by banks to the Financial Crimes Enforcement Network (FinCEN), a bureau of the U.S. Treasury Department (USTD).
+
+BuzzFeed News obtained the files and shared them with the International Consortium of Investigative Journalists (ICIJ). Over the past 16 months, 400 journalists from 88 countries have been investigating the documents.
+
+Leaked documents showed Dubai-based Gunes General Trading, which is alleged by the U.S. prosecutors of being a part of a network controlled by Zarrab that conducted hundreds of millions of dollars’ worth of transactions on behalf of the Iranian government and other Iranian entities that were barred under U.S. sanctions, processed $142m in suspicious transactions through the UAE financial system in 2011 and 2012.
+
+The activity was flagged by a British bank, but the firm was able to continue using local financial institutions, BBC reported.
+
+Suspicious transactions by Gunes General Trading
+
+Banks based in the UAE rely on big U.S.-based banks to monitor and approve their US dollar payments – a service known as “correspondent banking.”
+
+Correspondent banks are required to alert authorities to potential instances of criminal activity, such as money laundering or terrorist financing, by filing a document known as a suspicious activity report (SAR).
+
+Among the FinCEN files is an SAR that shows the New York branch of Standard Chartered Bank contacted the Central Bank of the UAE in 2012 after noticing hundreds of suspicious transactions by Gunes General Trading. The reports did not say any of this activity was linked to sanctions evasion by Iran.
+
+SARs are a way to alert government regulators and law enforcement to irregular activity that should be investigated, although they are not necessarily evidence of wrongdoing.
+
+The central bank told Standard Chartered that “the case has been passed on to law enforcement authorities” and that “accounts were closed in September 2011.”
+
+But Standard Chartered flagged that the company was able to “continue its suspicious activity” by “utilizing various accounts that [it] maintains with other banks.”
+
+In fact, the central bank failed to stop Gunes General Trading using two other accounts with two UAE state-owned banks – Rakbank, the national bank of the northern emirate Ras al-Khaimah, and the National Bank of Dubai (NBD).
+
+The FinCEN files show Gunes General Trading was able to process a further $108m of transactions flagged as suspicious until September 2012, the majority of them through Rakbank.
+
+In April 2013, the U.S. Bank of New York Mellon filed a SAR saying that following a U.S. government inquiry into Gunes General Trading, it believed the company was conducting transactions in a manner designed to evade sanctions against Iran.
+
+The FinCEN Files also suggest that Deutsche Bank continued to move money for people and companies deemed suspicious, as indicated by SAR filings from the bank, after it received a $258 million fine for violating U.S. sanctions in 2015, Deutsche Welle reported.
+
+Deutsche Bank’s U.S. affiliate, Deutsche Bank Trust Company Americas (TCA), submitted an SAR about a company with close ties to Zarrab to FinCEN in March 2017. The report states that the company, Nadir Döviz, which is involved in the gold trade, had more than $28 million transferred in its name.
+
+Turkey ‘a high-risk country’
+
+Deutsche Bank TCA filed its SAR because Nadir Döviz was being investigated for its involvement in a money-laundering scheme. The document says the transactions occurred between March 2016 and February 2017.
+
+In its report, Deutsche Bank stated that the suspicious activities were intra-company payments dispersed between several Turkish banks. “This SAR is being filed because the transactions originated from a high-risk country [Turkey], there were multiple large, round dollar transactions, and no commercial purpose was identified through the transaction details,” it reads.
+
+One of these suspicious transactions was for $1.5 million from Nadir Döviz in Turkey to Nadir Gold in Dubai on Sept. 12, 2016. No reason was provided for the transfer.
+
+Upon receiving a catalogue of detailed questions from ICIJ, a spokesman for Deutsche Bank said the information contained in the files is “not new information to us or our regulators” and that these issues date back to the years prior to 2016, adding that Deutsche Bank is “a different bank now.”
+
+In his statement from Sept. 9, the spokesman emphasized: “We acknowledged past weaknesses in our control environment, we apologized for this and accepted our respective fines. Most importantly: We learned from our mistakes, systematically tackled the issues and made changes to our business perimeter, our controls, and our personnel.”
+
+The dates of the recorded Suspicious Activity Reports raise questions about how much Deutsche Bank knew about Döviz’s connection to Zarrab and the Turkish trader’s involvement in what turned out to be a gold for oil scheme to circumvent sanctions against Iran.
+
+Reza Zarrab’s billion-dollar scheme
+
+When Iranian banks were cut off from the global SWIFT transaction system, the country’s companies could no longer use international banking transfers to receive payment for oil and gas exports.
+
+To get around the ban, Iran began collecting gold as payments instead. Reza Zarrab played a key role in this billion-dollar scheme to help Iran evade sanctions.
+
+Zarrab was first indicted and arrested in December 2013 in Turkey, as part of a larger corruption investigation aimed at ministers in the ruling Justice and Development Party (AKP) government. Among the charges directed at him were bribing ministers, money laundering and gold smuggling.
+
+According to a report by Turkish prosecutors at the time, Zarrab used Nadir Döviz for buying gold. Zarrab’s bagman Adem Karahan later told Turkish daily Cumhuriyet, that he was a cash courier for money going from Dubai to Turkey and from Dubai to Iran.
+
+One of the companies he received money from was Nadir Gold LLC, a subsidiary of Nadir Döviz in Dubai. It is precisely these two companies that Deutsche Bank lists in its March 2017 Suspicious Activity Report to FinCEN.
+
+At the time, the administration of President Recep Tayyip Erdoğan refuted all allegations against Zarrab and likened the investigation to a coup attempt, purging and arresting the prosecutors who initiated it. After two and a half months in prison, Zarrab was released.
+
+In March 2016 Zarrab was arrested again, this time in the U.S. while on route to Disney World with his family. U.S. authorities accused him of money laundering, fraud and helping the Iranian government to evade the economic sanctions.
+
+He pleaded guilty and later testified as a protected star witness in a trial against a manager of Turkey’s Halkbank.
+
+During this trial in November 2017, Zarrab claimed that Turkish government officials, including Erdoğan, had allowed Halkbank to create a complex web of shell companies and sham transactions in gold to help Iran get around U.S. sanctions.

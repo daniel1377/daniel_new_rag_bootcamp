@@ -1,0 +1,38 @@
+Name: Alert ID: TMML2024038458284
+It is clear that Danske Bank has failed to live up to its responsibility in the case of possible money laundering in Estonia.
+
+So said Thomas Borgen, CEO of Denmark’s biggest financial institution, when he resigned after admitting that around €200 billion of questionable money flowed through the Danish bank’s Estonian branch from 2007-15.
+
+To put that figure into some perspective, the GDP of Estonia in 2017 was €29 billion and the figure in question is approaching two thirds of the GDP of Denmark itself at €324 billion.
+
+It raises serious questions over the capacity of banks – and governments – to combat the serious scourge of money laundering. The European Commission has called the case the “biggest scandal in Europe” and Danske Bank and Denmark and Estonia’s financial watchdogs face an inquiry from the European Union’s banking supervisor to see whether they broke the law.
+
+Money laundering facilitates crime, undermines financial systems and ultimately can seriously damage economies. This is all well recognised – and yet it seems that even the world’s most sophisticated financial regimes cannot control the flow of suspect money through the system.
+
+To get some perspective on the scale of the problem, the National Crime Agency estimates that the cost of money laundering to the UK economy is £24 billion a year. Globally, it is estimated that up to 5 per cent of global GDP – that’s £1.5 trillion – is laundered by criminals each year.
+
+Money laundering is the process by which “dirty money” – which is to say money that is identifiable as the proceeds of crime – is made to look legitimate by passing it through financial systems to disguise its suspicious origins.
+
+Various techniques are used, generally involving layers of transactions. This may involve moving money through different countries and then returning it in a way that looks legitimate. It may involve spurious transactions at inflated values such as paying a high price for a shell company, the purchase and resale of property or legitimate businesses.
+
+Even fake litigation has been used to disguise the ultimate source of funds – a cash intensive business is set up, documents are created to suggest a legitimate debt and then a solicitor is approached to recover it. When the fake debtor makes a payment, the funds are passed through the solicitor’s bank account and back to the client.
+
+The Danske case
+
+In recognition of the extent of the problem, the G7 group of major economies formed the Financial Action Task Force on Money Laundering back in 1989. The idea behind this was to produce a set of standards and guidelines and to monitor progress on anti-money laundering regimes.
+
+The focus is to identify suspicious transactions and report them. For anti-money laundering efforts to be successful, it requires financial institutions to know their customers. This means that banks must be able to identify the ultimate beneficial recipient of a transaction – so the person who takes the profit – of any customer on their books.
+
+This is where Danske Bank ran into trouble. Its Estonian branch came about when Danske acquired Sampo Bank, a small Finnish Bank in 2007. Sampo had a non-resident portfolio in Estonia and it is this that caused the problems.
+
+In the words of the independent report into the scandal, which preempted CEO Borgen’s resignation: “Anti-money laundering procedures at the Estonian branch had been manifestly insufficient and inadequate.” Danske Bank has also admitted there were “major deficiencies in controls and governance that made it possible to use Danske Bank’s branch in Estonia for criminal activities such as money laundering”.
+
+Danske shut down the non-resident portfolio in 2015 after it became clear that the bank’s anti-money laundering procedures at the Estonian branch weren’t working. As a mere branch, Estonia should have been subject to Danske’s own money laundering systems – but the branch had its own IT platform, which meant it was not covered by the same risk monitoring as the bank’s Copenhagen headquarters.
+
+The independent investigation found that more than half of Danske’s 15,000 customers in Estonia were suspicious. The source of funds passing through the portfolio was identified as more than 58 per cent coming from Russia, Estonia and Latvia. The destinations of the funds were worldwide.
+
+The difficulty in identifying the true source of the funds comes from the lack of transparency as to the real owners of the customers in the portfolio. A proportion of them are UK-based companies that are registered as limited liability partnerships – this means they are not required to publish details of their eventual owners. This is a classic case of money laundering where ownership often passes through a series of shell companies before the eventual owner can be identified.
+
+The customers are being investigated by several national authorities including the FBI and the UK National Crime Agency. The Danish regulator is investigating Danske Bank itself. Harsh penalties for the bank could ensue – Denmark’s business minister said the Danish authorities could fine Danske 4 billion Danish kroner (£475 million). But it remains to be seen what the long-term damage will be for Danske, if any.
+
+A wider question surrounds the failure of international anti-money laundering regimes. To date there have been no examples of significant criminal sanctions for failure to implement an effective anti-money laundering process within a business. Nor is there any rigorous external scrutiny of how guidelines are implemented. But it is high time there was – while there is still a financial system to protect.

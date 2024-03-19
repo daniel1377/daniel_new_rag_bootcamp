@@ -1,0 +1,18 @@
+Name: Alert ID: TMML2024034671592
+North Korean hackers stole around $250 million in cryptocurrency from an exchange and then enlisted Chinese nationals to help launder more than $100 million of it, say US authorities.
+
+The US Department of Justice has charged Tian Yinyin and Li Jiadong with laundering cryptocurrency believed to have been stolen from an unnamed exchange in 2018 by the North Korean government-linked Lazarus Group.
+
+A civil forfeiture complaint says that after stealing the money, the hackers laundered it through hundreds of automated cryptocurrency transactions designed to prevent authorities tracing it. They used doctored photos and fake IDs to get past KYC controls.
+
+Some of the haul was used to pay for infrastructure used in North Korean hacking campaigns against the financial industry. A UN report last year estimated that the country has generated an estimated $2 billion in revenues for its weapons programme through the state-sponsored looting of financial institutions and cryptocurrency exchanges.
+
+In addition to the $250 million 2018 hack, the North Koreans are said to be behind a 2019 attack on a South Korean exchange that netted $48.5 million.
+
+Yinyin and Jiadong are accused by the DoJ of helping to launder about $100 million. Among their techniques, they converted about $1.4 million of Bitcoin into prepaid Apple iTunes gift cards. They are charged with money laundering conspiracy and operating an unlicensed money transmitting business.
+
+The civil forfeiture complaint names 113 virtual currency accounts and addresses from which the US is trying to recover funds, a portion of which has already been seized.
+
+Assistant Attorney General Brian Benczkowski says: “These defendants allegedly laundered over a hundred million dollars worth of stolen cryptocurrency to obscure transactions for the benefit of actors based in North Korea.
+
+“Today's actions underscore that the Department will pierce the veil of anonymity provided by cryptocurrencies to hold criminals accountable, no matter where they are located.”
